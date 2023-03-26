@@ -1,0 +1,19 @@
+.search-bar {
+    border: 1px solid lightcyan;
+    border-bottom: 2px solid cyan;
+    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+    width: 25%;
+    margin: auto auto 20px auto;
+}
+
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-bar {
+    border: 2px double rgb(208, 240, 250);
+    border-radius: 5px;
+}
